@@ -3,106 +3,116 @@ linkTitle: AI Daily
 title: AI Daily-AI资讯日报
 breadcrumbs: false
 comments: true
-next: /en/2026-01/2026-01-19
-description: Your daily source for curated AI news, practical tools, and actionable
-  tutorials to master Artificial Intelligence;
+next: /2026-01/2026-01-19
+description: "个人每日整理的AI资讯站。我们为您过滤信息噪音，只提供最精选的AI新闻、最实用的AI工具与AI教程，助您高效获取人工智能领域的前沿动态"
 cascade:
   type: docs
 ---
-## AI News Daily 2026/1/20
 
-> AI News | Daily Morning Read | All-Network Data Aggregation | Cutting-Edge Science Exploration | Industry Free Voice | Open Source Innovation Power | AI and Human Future | [Visit Web Version](https://ai.hubtoday.app/) | [Join Group Chat](https://source.hubtoday.app/logo/wechat-qun.jpg)
+## AI资讯日报 2026/1/20
 
-### **Today's Summary**
+>  `AI资讯` | `每日早读` | `全网数据聚合` | `前沿科学探索` | `行业自由发声` | `开源创新力量` | `AI与人类未来` | [访问网页版↗️](https://ai.hubtoday.app/) | [进群交流🤙](https://source.hubtoday.app/logo/wechat-qun.jpg)
+
+
+
+### **今日摘要**
 
 ```
-Coze 2.0 launches Agent Skills system, OpenAI introduces $8 ChatGPT Go
-NVIDIA PersonaPlex full-duplex voice model supports real-time interruption and simultaneous listening/speaking
-DeepSeek mHC replication observes an astonishing 10924x signal amplification
-OpenAI burns $8 billion annually, ChatGPT to introduce ad monetization
-Roboparty full-stack open-source humanoid robot runs 3m/s, includes hardware schematics
+扣子2.0上线Agent技能系统,OpenAI推8美元ChatGPT Go
+英伟达PersonaPlex全双工语音模型支持实时打断边说边听
+DeepSeek mHC复现观察到10924倍信号放大效果惊人
+OpenAI年烧80亿美元ChatGPT将引入广告变现机制
+萝博派全栈开源人形机器人跑步3m/s含硬件图纸
 ```
 
-### Product & Feature Updates
 
-1.  **Coze 2.0 officially launches, with Agent Skills getting a massive upgrade!**
-    The Coze AI assistant just dropped a huge update on January 19th! 🚀 It now includes an [Agent Skills system (AI News)](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517978&idx=1&sn=f84abb409d081bcff9aa0fd841631303) and a **long-term planning** feature, allowing it to execute tasks autonomously. 🤖 The new Video Skill enables synchronized audio-visual creation, which is super cool. 🔥 Old users, get ready: you'll snag 100,000 points when you upgrade! <br/>![AI News: Coze 2.0 Skill Store Interface Display](https://source.hubtoday.app/images/2026/01/news_01kfbeqzz9exx9yed4ajtpjwjy.avif)<br/>
 
-2.  **OpenAI launches an $8 subscription for ChatGPT Go.**
-    OpenAI is rolling out an $8 subscription version of ChatGPT Go! 🤯 This new tier is a steal at just 40% of the Plus price! You get unlimited access to the **GPT-5.2 Instant** model—pretty sweet, right? It also boasts a larger memory capacity and file upload functionality. However, both the free and Go versions will be [testing ads (AI News)](https://www.aibase.com/zh/news/24713) as a new monetization mechanism. Just a heads up! 😉
 
-3.  **NVIDIA unveils PersonaPlex, a full-duplex voice model.**
-    NVIDIA just dropped PersonaPlex, and it's a game-changer for voice! 🎤 This [7B parameter model (AI News)](https://www.aibase.com/zh/news/24720) completely breaks traditional voice interaction barriers. It supports real-time interruption, meaning you can talk and listen at the same time! 🤯 Thanks to its single Transformer architecture, latency is super low. And get this: you can even precisely **customize AI voice tones** using a mix of speech and text. How cool is that? ✨ <br/>![AI News: PersonaPlex Voice Interaction Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kfber5mdf9y9evf9fsj6ch97.avif)<br/>
 
-4.  **Ali Health unveils "Hydrogen Ion" AI assistant.**
-    Ali Health has dropped its new AI assistant, "Hydrogen Ion," designed specifically for the medical sector. 🩺 The standout feature? It boasts the **absolute lowest hallucination rate**! Every single answer it provides supports one-click traceability back to its original source. It's officially open for download [for clinicians (AI News)](https://www.aibase.com/zh/news/24710). Talk about accuracy—it's incredibly precise when analyzing both Chinese and English medical literature. Impressive! 🔬
 
-5.  **Xiaomi Sports & Health integrates Ant Afu AI Health Assistant.**
-    Xiaomi Sports & Health just hooked up with Ant Afu AI Health Assistant! 🧘‍♀️ This means sleep and heart rate monitoring finally get their very own "digital doctor"! The assistant dishes out smart health advice, all powered by a **large medical model**. Ant Afu's [monthly active users (AI News)](https://www.aibase.com/zh/news/24712) have already hit a whopping 30 million, with daily Q&A interactions blowing past 10 million. That's some serious user engagement! 📈
+### 产品与功能更新
 
----
+1. **扣子2.0正式上线，Agent技能全面升级。**
+扣子AI助手1月19日(✧∀✧)迎来重大更新！新增[Agent Skills技能系统(AI资讯)](https://mp.weixin.qq.com/s?__biz=MzI1MzYzMjE0MQ==&mid=2247517978&idx=1&sn=f84abb409d081bcff9aa0fd841631303)，还有**长期计划**功能💡可自主执行任务。视频Skill实现🔥音画同步创作。老用户升级送10万积分。<br/>![AI资讯：扣子2.0技能商店界面展示](https://source.hubtoday.app/images/2026/01/news_01kfbeqzz9exx9yed4ajtpjwjy.avif)<br/>
 
-### Frontier Research
+2. **OpenAI推出8美元订阅版ChatGPT Go。**
+新订阅🚀价格仅为Plus的40%！无限使用**GPT-5.2 Instant**模型(✧∀✧)太香了。更大记忆容量加持💡文件上传功能。但免费版与Go版将[测试广告(AI资讯)](https://www.aibase.com/zh/news/24713)引入机制。
 
-1.  **DeepSeek mHC successfully replicated, with even more mind-blowing results!**
-    DeepSeek mHC has been successfully replicated, and hold up—the results are even more insane! 🤯 Engineers rented **8 H100 GPUs** and went full beast mode. With 1.7 billion parameters, they observed a jaw-dropping **10924x** signal amplification. That's just wild! 😱 Sinkhorn projection flawlessly ironed out the instability issues. A [detailed blog (AI News)](https://www.jiqizhixin.com/articles/2026-01-19-8) outlining the replication process has already been made public. Go check it out! 👇
+3. **英伟达发布PersonaPlex全双工语音模型。**
+这款🔥[7B参数模型(AI资讯)](https://www.aibase.com/zh/news/24720)打破传统语音交互！支持实时打断💡边说边听。单一Transformer架构(✧∀✧)延迟极低。还能通过语音+文本精准**定制AI音色**。<br/>![AI资讯：PersonaPlex语音交互架构示意图](https://source.hubtoday.app/images/2026/01/news_01kfber5mdf9y9evf9fsj6ch97.avif)<br/>
 
-2.  **Co-Evolving Agents paper proposes a fresh training paradigm.**
-    A new paper on Co-Evolving Agents is shaking things up with a fresh training paradigm! 🧠 The big idea? Turning failed trajectories into **super valuable learning signals**! It helps struggling agents whip up "hard negative samples." This [preference optimization method (AI News)](https://arxiv.org/abs/2511.22254) seriously boosts generalization capability. Pretty ingenious, right? ✨
+4. **阿里健康发布AI助手"氢离子"。**
+主打医疗领域🔥**最低幻觉率**！所有回答💡支持一键溯源至原始信源。[面向临床医生(AI资讯)](https://www.aibase.com/zh/news/24710)正式开放下载。中英文献研读(✧∀✧)准确度极高。
 
-3.  **Medical SAM3 foundational model for medical segmentation is out!**
-    Get ready for Medical SAM3, the new foundational model for medical segmentation! 🧬 This bad boy is a fully fine-tuned SAM3, boasting coverage across **10 different medical imaging modalities**! It crushes it in organ segmentation and complex morphological scenarios. The [open-source code (AI News)](https://arxiv.org/abs/2601.10880) is dropping soon, and we're definitely hyped for it! 🤩
+5. **小米运动健康接入蚂蚁阿福AI健康助手。**
+睡眠心率监测🔥终于有"数字医生"了！基于**医学大模型**提供💡智能健康建议。[蚂蚁阿福月活(AI资讯)](https://www.aibase.com/zh/news/24712)已达3000万用户。日问答量(✧∀✧)突破1000万次。
 
 ---
 
-### Industry Outlook & Social Impact
+### 前沿研究
 
-1.  **ChatGPT forced to run ads – OpenAI is seriously short on cash!**
-    Well, well, well. ChatGPT is getting ads, which pretty much confirms OpenAI is in desperate need of cash. 💸 Reports suggest they could be facing **funding exhaustion** within just 18 months! Burning over **$8 billion** annually is just wild, right? Their [ad revenue target (AI News)](https://www.qbitai.com/2026/01/370285.html) is set in the billions. Looks like what Altman called the "last straw" back in the day is actually happening. 😬
+1. **DeepSeek mHC被成功复现，结果更炸裂。**
+工程师租了**8张H100**硬刚！在17亿参数下💡观察到**10924倍**信号放大(✧∀✧)吓人。Sinkhorn投影🔥完美解决不稳定问题。[详细博客(AI资讯)](https://www.jiqizhixin.com/articles/2026-01-19-8)已公开复现过程。
 
-2.  **MiniMax fully establishes Guangzhou Xiyu Jizhi company.**
-    MiniMax just fully established Guangzhou Xiyu Jizhi company! 🤑 Its registered capital is a staggering **70 million RMB**! The business scope? It's clearly focused on selling intelligent robots. 🤖 [After its Hong Kong listing (AI News)](https://www.aibase.com/zh/news/24723), MiniMax is seriously stepping up its software-hardware integrated strategy. Looks like they've got some big ambitions! ✨
+2. **Co-Evolving Agents论文提出新训练范式。**
+让失败轨迹🔥变成**有价值学习信号**！辅助失败代理💡生成"硬负样本"。[偏好优化方法(AI资讯)](https://arxiv.org/abs/2511.22254)显著提升泛化能力(✧∀✧)很巧妙。
 
-3.  **Tencent Research Institute focuses on making AI inclusive for vulnerable groups.**
-    The Tencent Research Institute is putting its efforts into making AI truly inclusive for vulnerable groups. ❤️ They're building "warm" large models specifically for the elderly and left-behind children! They've even created the very first **Chinese age-friendly AI dataset**, which is honestly super heartwarming. Their [plan to open-source part of this data (AI News)](https://www.aibase.com/zh/news/24717) is a big call for industry collaboration. Major props to them! 👍
-
----
-
-### TOP Open Source Projects
-
-1.  **Roboparty fully open-sources its humanoid robot prototype!**
-    Roboparty just went full-stack open-source with its humanoid robot prototype! 🤖 This thing can *run* at a blazing **3m/s**—how hardcore is that?! Even the hardware schematics and pitfall avoidance guides are completely open-source. The [GitHub repository (AI News)](https://github.com/Roboparty/roboto_origin) is blowing up with stars. ⭐ What a super generous move! P.S. Xiaomi and SenseTime have already invested. Pretty big deal! 😉
-
-2.  **VoxCPM: A tokenizer-free TTS voice generation project.**
-    Check out VoxCPM, a tokenizer-free project for TTS voice generation! 🗣️ It supports context-aware voice generation, pulling off **realistic voice cloning** with seriously stunning results. The [GitHub repository (AI News)](https://github.com/OpenBMB/VoxCPM) is rocking 4681 stars, so it's definitely one to keep an eye on! 👀
-
-3.  **n8n-mcp: An MCP tool for building workflows.**
-    Take a look at n8n-mcp, an awesome MCP tool for building workflows! 🛠️ It's got multi-platform support, including Claude Desktop and Cursor! This bad boy helps you effortlessly set up your **n8n workflows**. Its [open-source address (AI News)](https://github.com/czlonkowski/n8n-mcp) boasts 12041 stars. Talk about practical! ✨
-
-4.  **The blender-mcp project is still on fire!** 🔥
-    The blender-mcp project is still super hot! 🔥 The Blender ecosystem just got another powerful tool added to its arsenal. The [GitHub repository (AI News)](https://github.com/ahujasid/blender-mcp) boasts a massive 15770 stars, which means the community is thriving and super active. Solid project! 💪
-
-5.  **PageIndex is flipping the script on traditional RAG retrieval!**
-    PageIndex is here to shake up the traditional RAG retrieval paradigm! 🤯 Its core philosophy? "Logical reasoning replacing vector computation!" And guess what? It hit an insane **98.7%** accuracy on FinanceBench. 🎯 The [open-source address (AI News)](https://github.com/VectifyAI/PageIndex) is a godsend for tackling those notoriously inaccurate long document retrievals. This thing is seriously powerful! 💪 <br/>![AI News: PageIndex Document Index Tree Architecture Diagram](https://source.hubtoday.app/images/2026/01/news_01kfberar8fcmvqta18w2hc3te.avif)<br/>
+3. **Medical SAM3医学分割基础模型发布。**
+全面微调SAM3🔥覆盖**10种医学成像模态**！在器官分割💡复杂形态场景表现优异。[开源代码(AI资讯)](https://arxiv.org/abs/2601.10880)即将公开(✧∀✧)值得期待。
 
 ---
 
-### Social Media Shares
+### 行业展望与社会影响
 
-1.  **Netizen shares a real-life AI replacement story for programmers.**
-    Alright, so everyone's been chatting about AI replacing programmers, right? Well, a netizen just shared a story where they [actually ran into it (AI News)](https://x.com/Gorden_Sun/status/2013206752045764709) in real life! 🤯 The comments section? It absolutely blew up. 🔥 You gotta see this. 👇 <br/>![AI News: Netizen Shares Screenshot of AI Replacing Programmer](https://source.hubtoday.app/images/2026/01/news_01kfberds7fe8r4w2wmsnkcs7t.avif)<br/>
+1. **ChatGPT强行上广告，OpenAI真的缺钱。**
+预计18个月内🔥可能面临**资金枯竭**！年烧钱超**80亿美元**💡太夸张了。[广告收入目标(AI资讯)](https://www.qbitai.com/2026/01/370285.html)达数十亿美元。奥特曼当年说的"最后稻草"(✧∀✧)应验了。
 
-2.  **Ollama is now compatible with the Claude Code API!** 🎉
-    Big news! Ollama is officially compatible with the Claude Code API. 🤩 This means your local models can finally leverage Claude Code! It currently supports models with **over 64K context**. Wanna dive in? Here's the [usage tutorial (AI News)](https://x.com/op7418/status/2013097058908201061). Go give it a whirl! ✨ <br/>![AI News: Ollama and Claude Code Compatibility Configuration Instructions](https://source.hubtoday.app/images/2026/01/news_01kfberj5vfw08xw8ps0b20ksp.avif)<br/>
+2. **MiniMax全资设立广州稀宇极智公司。**
+注册资本🔥高达**7000万元**！经营范围💡明确指向智能机器人销售。[港股上市后(AI资讯)](https://www.aibase.com/zh/news/24723)加速软硬一体布局(✧∀✧)野心不小。
 
-3.  **Coze Skills creation tutorial gets shared!**
-    Good news for non-devs! A Coze Skills creation tutorial just dropped, meaning even folks without coding experience can master AI skills! 🚀 You can directly generate and deploy [skill files (AI News)](https://x.com/shao__meng/status/2013155281291903394) right within the conversation. Seriously, it's way more intuitive than messing with the CLI. Get started now! ✨ <br/>![AI News: Coze Programming Skills Creation Process Demo](https://source.hubtoday.app/images/2026/01/news_01kfberq9pfg48jjdcb7gyghma.avif)<br/>
+3. **腾讯研究院聚焦AI普惠弱势群体。**
+为老人留守儿童🔥打造"有温度"大模型！构建首个**中文适老化AI数据集**💡很暖心。[计划开源部分数据(AI资讯)](https://www.aibase.com/zh/news/24717)呼吁行业共建(✧∀✧)点赞。
 
 ---
 
-## **AI News Daily Voice Version**
+### 开源TOP项目
 
-| 🎙️ **Xiaoyuzhou Podcast** | 📹 **Douyin** |
+1. **萝博派对全栈开源人形机器人原型机。**
+跑步速度🚀达到**3m/s**超硬核！连硬件图纸💡避坑指南都全开源了。[GitHub仓库(AI资讯)](https://github.com/Roboparty/roboto_origin)⭐火速增长中(✧∀✧)太良心。小米商汤都投了。
+
+2. **VoxCPM无分词器TTS语音生成项目。**
+支持🔥上下文感知语音生成！实现**逼真语音克隆**💡效果惊艳。[GitHub仓库(AI资讯)](https://github.com/OpenBMB/VoxCPM)⭐4681颗星(✧∀✧)值得关注。
+
+3. **n8n-mcp工作流构建MCP工具。**
+支持Claude Desktop💡Cursor等多平台！帮你🔥轻松搭建**n8n工作流**。[开源地址(AI资讯)](https://github.com/czlonkowski/n8n-mcp)⭐12041颗星(✧∀✧)实用。
+
+4. **blender-mcp项目持续火热。**
+Blender生态🔥又添强力工具！[GitHub仓库(AI资讯)](https://github.com/ahujasid/blender-mcp)⭐15770颗星💡社区活跃(✧∀✧)稳。
+
+5. **PageIndex颠覆传统RAG检索范式。**
+主张🔥"逻辑推理取代向量计算"！在FinanceBench准确率💡高达**98.7%**。[开源地址(AI资讯)](https://github.com/VectifyAI/PageIndex)专治长文档检索不准(✧∀✧)太强了。<br/>![AI资讯：PageIndex文档索引树架构图](https://source.hubtoday.app/images/2026/01/news_01kfberar8fcmvqta18w2hc3te.avif)<br/>
+
+---
+
+### 社媒分享
+
+1. **网友分享AI真实替代程序员案例。**
+都说AI替代程序员💡这次[真遇到了(AI资讯)](https://x.com/Gorden_Sun/status/2013206752045764709)！评论区🔥(✧∀✧)炸开锅了。<br/>![AI资讯：网友分享AI替代程序员截图](https://source.hubtoday.app/images/2026/01/news_01kfberds7fe8r4w2wmsnkcs7t.avif)<br/>
+
+2. **Ollama兼容Claude Code API了。**
+本地模型🔥终于能用Claude Code！目前支持💡**64K以上上下文**模型。[使用教程(AI资讯)](https://x.com/op7418/status/2013097058908201061)(✧∀✧)快去试试。<br/>![AI资讯：Ollama与Claude Code兼容配置说明](https://source.hubtoday.app/images/2026/01/news_01kfberj5vfw08xw8ps0b20ksp.avif)<br/>
+
+3. **扣子Skills创建教程分享。**
+非开发者🔥也能玩转AI技能！在对话中💡直接生成并部署[技能文件(AI资讯)](https://x.com/shao__meng/status/2013155281291903394)。比CLI方式(✧∀✧)直观太多了。<br/>![AI资讯：扣子编程Skills创建流程演示](https://source.hubtoday.app/images/2026/01/news_01kfberq9pfg48jjdcb7gyghma.avif)<br/>
+
+---
+
+## **AI资讯日报语音版**
+
+| 🎙️ **小宇宙** | 📹 **抖音** |
 | --- | --- |
-| [Laisheng Xiaojiuguan](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e) | [Self-Media Account](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
-| ![Laisheng Xiaojiuguan Logo](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![Intelligence Station Logo](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+| [来生小酒馆](https://www.xiaoyuzhoufm.com/podcast/683c62b7c1ca9cf575a5030e)  |   [自媒体账号](https://www.douyin.com/user/MS4wLjABAAAAwpwqPQlu38sO38VyWgw9ZjDEnN4bMR5j8x111UxpseHR9DpB6-CveI5KRXOWuFwG)|
+| ![小酒馆](https://source.hubtoday.app/logo/f959f7984e9163fc50d3941d79a7f262.md.png) | ![情报站](https://source.hubtoday.app/logo/7fc30805eeb831e1e2baa3a240683ca3.md.png) |
+
+
+
